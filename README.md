@@ -146,7 +146,7 @@ This project is for educational and hackathon purposes only. It is not a certifi
 ## 📂 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/cardiocare-ai.git
-cd cardiocare-ai
+git clone https://github.com/Haridas-Nishita/CardioCareAI.git
+cd CardioCareAI
 flutter pub get
 flutter run
